@@ -1,0 +1,20 @@
+/* ყველა body-ში ტექსტი ცენტრში */
+body {
+  text-align: center;
+  background-color: #f0f0f0;
+  font-family: Arial, sans-serif;
+}
+
+/* ღილაკი */
+button {
+  background-color: #4CAF50; /* მწვანე */
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049; /* როცა მაუსი აქვს */
+}
